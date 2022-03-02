@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "author": "justin@juicewareio",
   "dependencies": {
-    "reveal.js": "^3.9.2",
+    "reveal.js": "^4.3.0",
     "tailwindcss": "^1.2.0"
   },
   "devDependencies": {
